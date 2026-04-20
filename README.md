@@ -4,6 +4,8 @@
 | [James Cole](https://www.linkedin.com/in/jamescole05/)<br> Algorithmic Trading <br> | [Tanishq Kumar](https://www.linkedin.com/in/tanishqk27/)<br> Algorithmic Trading <br> | [Andrii Rahozin](https://www.linkedin.com/in/andrii-rahozin/)<br> Manual Trading <br> | [Ben Griffiths-Johnson](https://www.linkedin.com/in/ben-griffiths-johnson/) <br> Manual Trading <br>| [Alfie Harrison](https://www.linkedin.com/in/alfielharrison/)<br> Manual Trading <br> |
 
 
+Algorithmic Trading Competition | ~23,000 registered competitors 
+
 | Round            | Overall rank | Algo | Manual |  PnL                                 |
 |------------------|--------------|------|--------|--------------------------------------|
 | Round 1          | 2300         | 3483 | 1      |164,930                               |
