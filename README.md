@@ -11,7 +11,7 @@ Algorithmic Trading Competition | ~23,000 registered competitors
 | Round 1          | 2300th         | 3483rd | 1st      | 248th | $164,930                               |
 | Round 2          | 37th           | 22nd   | 127th    | 7th | $506,900 (#2 in the world for algo pnl)|
 | Intermission      | ~~~~           |~~~~    |~~~~      |~~~~|~~~~~ |
-| Round 4          | 134th | 119th | 541st | 15th| $241,862 |
-| Round 5 | 105th | 137th | 439th | 12th | $440,167 |
+| Round 3          | 134th | 119th | 541st | 15th| $241,862 |
+| Round 4 | 105th | 137th | 439th | 12th | $440,167 |
 
 <sub><i> We weren't able to focus on the competition much after Round 2 due to exams & other personal issues </i></sub>
